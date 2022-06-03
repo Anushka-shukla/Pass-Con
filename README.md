@@ -1,5 +1,6 @@
 # Pass-Con
 A passenger counter app in Js.
+![site image](https://github.com/Anushka-shukla/Pass-Con/blob/master/siteImage.png)
 
 # What did I learn in this project
 - script tag
@@ -12,4 +13,4 @@ A passenger counter app in Js.
 - getElementById
 - innerText
 - textContent
-![site image](https://github.com/Anushka-shukla/Pass-Con/blob/master/siteImage.png)
+
